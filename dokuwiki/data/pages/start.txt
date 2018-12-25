@@ -5,7 +5,13 @@ GitHub és una plataforma de desenvolupament col·laboratiu i servei de hosting 
 </WRAP>
 
 {{youtube>w3jLJU7DT5E?large}}
-===== Descripció del projecte =====
+
+===== Contextualització =====
+
+
+==== Descripció del projecte ====
+ 
+
  
 <WRAP justify>
 GitHub està basada en Git que és un sistema de control de versions distribuït dissenyat per millorar l'eficiència i integritat de les dades. 
@@ -26,7 +32,8 @@ Amb un compte d'usuari registrat, els usuaris poden tenir discussions, administr
 La pàgina d’inici de GitHub és: https://github.com/ 
 </WRAP>  
 
-===== Objectius i motivacions ===== 
+==== Objectius i motivacion ====
+ 
 
 <WRAP justify>
 GitHub és una eina de control de version molt coneguda i utilitzada per la gran varietat d’utilitats que proporciona, ja que abarca una serie d’objectius que inciten i motiven als usuaris a treballar amb la filosofia que aporta aquesta eina. 
@@ -64,7 +71,8 @@ D’aquesta manera, GitHub seguint la seva filosofia, proporciona recursos molt 
 
 </WRAP>
 
-===== Història i estat recent =====
+====  Història i estat recent ====
+
 
 <WRAP justify>
 Git va ser creat l’any 2005 per Linus Torvalds i els seus desenvolupadors pel fet que cap sistema de control de versions complia amb els requisits per ser utilitzat en el desenvolupament del kernel de Linux. Doncs el projecte Linux va ser el primer a adoptar-lo com a sistema de control de versions.
@@ -79,7 +87,8 @@ El 28 de febrer de 2018, GitHub va ser víctima de l'atac de denegació de serve
 
 </WRAP>
 
-===== Estat actual =====
+==== Estat actual ====
+
 
 <WRAP justify>
 
@@ -91,7 +100,42 @@ Darrera versió estable 2.15.4 (GitHub Enterprise a l’11 de desembre del 2018)
 
 REST API v3 https://developer.github.com/v3/#current-version 
 
-
 </WRAP>
+
+
+===== Sistema empresarial =====
+
+==== Productes o serveis oferts ====
+
+<WRAP justify>
+    * __GitHub__: Als projectes de GitHub es pot accedir i manipular amb la interfície estàndard de la línia de comandes de Git. El lloc proporciona funcions similars a les xarxes socials com els feeds, permet tenir seguidors, wikis (usant un programari anomenat Gollum) i un gràfic per mostrar com els desenvolupadors treballen en les seves versions (forks) d’un repositori. 
+
+  * __GitHub Enterprise__: és similar al servei GitHub, però està dissenyat per a ser utilitzat per equips de desenvolupament de programari empresarial a gran escala, on les empreses allotjen els seus repositoris darrere d’un firewall corporatiu. 
+
+  * __Gists__: es un lloc pastebin-style que serveix per allotjar fragments de codi i un servei d’allotjament slide anomenat Speaker Deck.
+
+  * __Education program__: GitHub va llançar un programa anomenat GitHub Student Developer Pack per donar accés als estudiants a eines i serveis de desenvolupament. GitHub es v associar amb plataformes com Bitnami i Travis CI entre altres, per llança el programa.
+
+  * __GitHub Marketplace service__: GitHub també proporciona integracions Software as a Service (SaaS) per afegir funcions addicionals als projectes. Aquestos serveis son:
+
+  - Travis CI: servei d’integració contínua hostatjat i distribuït que s’utilitza per construir i fer tests dels projectes allotjats a GitHub.
+  - Codebeat:  per a l’anàlisi de codi automatitzat, especialitzat en web i mòbils.
+  - Waffle.io
+  - Rollbar
+  - GitLocalize
+
+ </WRAP>
+
+==== Cost pels usuaris ====
+
+<WRAP justify>
+GitHub és gratuït per a projectes públics i de codi obert. Per treballar amb repositoris privats il·limitats, disposa d’un pla de pagament amb diferents costos mensuals, segons el flux de treball que volem:
+  * Developer: $7  Inclou: (Compte personal, dipòsits públics il·limitats, dipòsits privats il·limitats i col·laboradors il·limitats)
+  * Team: $9 (Repositoris públics i privats il·limitats i permisos per a equips i usuari)
+  * Business Cloud: $21 (assistència 24/5 amb temps de resposta de 8 hores)
+  * Enterprise: $21* (hosting personal, suport 24/7 per a problemes urgents, auditoría avançada)
+
+ </WRAP>
+
 
 
