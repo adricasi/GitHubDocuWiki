@@ -1,3 +1,67 @@
-====== GitHub======
+====== GitHub ======
 
-First Page of GitHubWiki.
+{{https://youtu.be/w3jLJU7DT5E|GitHub video}}
+
+GitHub és una plataforma de desenvolupament col·laboratiu i servei de hosting de programari lliure per allotjar projectes, utilitzant el sistema de control de versions Git.
+
+===== Descripció del projecte =====
+ 
+
+GitHub està basada en Git que és un sistema de control de versions distribuït dissenyat per millorar l'eficiència i integritat de les dades. 
+
+A diferència de Git, GitHub proporciona una interfície gràfica per a web i escriptori, així com per la integració mòbil. A més, proporciona control d'accés i funcions de col·laboració, com el seguiment d’errors, peticions de tasques (feature requests), gestió de tasques i wikis per a cada projecte.
+
+**- 1. Requeriments funcionals**
+
+Registre: El registre pels usuaris és opcional, però necessari per crear i unir (joining) projectes. 
+
+Un usuari ha de crear un compte per tal d'aportar continguts al lloc, però qualsevol usuari pot navegar i descarregar els repositoris públics.
+
+Amb un compte d'usuari registrat, els usuaris poden tenir discussions, administrar repositoris, enviar contribucions als repositoris d'altres desenvolupadors i revisar els canvis al codi.
+
+
+**- 2. Pàgina principal**
+
+La pàgina d’inici de GitHub és: https://github.com/   
+
+===== Objectius i motivacions ===== 
+
+GitHub és una eina de control de version molt coneguda i utilitzada per la gran varietat d’utilitats que proporciona, ja que abarca una serie d’objectius que inciten i motiven als usuaris a treballar amb la filosofia que aporta aquesta eina. 
+
+El principal objectiu de GitHub és ajudar en el desenvolupament de software per resoldre problemes en grup, d’aquesta forma, motiva als diferents implicats en el projecte a comunicar-se, de forma que puguin obrir temes de debat (issues) sobre diversos problemes o necessitats i gestionar les tasques a realitzar. Així doncs, diferents membres del grup poden estar treballant en diferents tasques en el mateix temps, D'aquesta forma, un altre objectiu de GitHub, és permetre als membres del grup poder treballar/experimentar sense risc de perdre els progressos assolits, permeten crear noves branques i guardar el progrés, mantenint un registre de les contribucions i opinions, ja que quan es vol compartir una tasca ja finalitzada i preparada per col·laborar amb l’equip de treball, permet fer una solicitud dels canvis realitzats, així els altres membres poden revisar i analitzar els canvis, aportant ajuda o millores. Quan s’accepten els canvis, el nou codi s’incorpora en el projecte, estant disponible per tots el membres.
+
+GitHub pretén proporcionar una plataforma on es pugui col·laborar per comunicar problemes, treballar tots junts per desenvolupar software que els resolgui i poder compartir aquests projectes que poden arribar a ajudar a persones de formes inimaginables.
+
+D’aquesta manera, GitHub seguint la seva filosofia, proporciona recursos molt útils pels equips de treball:
+
+**Flux de treball:**
+  * Crear branques, per poder treballar/experimentar sense risc de perdre els progressos assolits.
+  * Afegir commits, per deixar rastre del progres.
+  * Demanar pull request dels canvis, permeten la revisió als altres membres de l’equip.
+
+**GitHub pages:**
+  * Un altre objectiu de GitHub és donar un servei de hosting on s'allotja el projecte i l’equip pugui gestionar el flux de treball
+
+**Forking projects:**
+  * Un altre objectiu de GitHub és que els projectes vagin evolucionant i crear una comunitat en la que es resolguin problemes entre tots, d’aquesta forma motiva als seus usuaris a poder crear una copia dels projectes, permeten partir d’un projecte ja començat, que després pot encararse cap a funcionalitats diferent i acabar sent un projecte diferent o aportar en el projecte principal. 
+
+**Sociabilitzar:**
+  * Element de llista de picsGitHub pretén crear un ambient de col·laboració, per tant permet als usuaris seguir altes usuaris i projectes.
+		
+**Control de tasques:**
+  * GitHub proporciona un entorn en el cual permet als membres d’un projecte a crear tasques a realitzar en el projecte i en les quals permet, priorització, assignació, estimació del temps i debat, potenciant d’aquesta forma la comunicació entre l’equip.
+		
+**Documentació dels projectes:**
+  * GitHub intenta motivar als seus usuaris a documentar el projecte de tal forma que pugui ser útil per nous membre de l’equip o per altres usuaris interessats en el projecte, d’aquesta forma proporciona una wiki per realitzar la documentació.
+			
+**Col·laboració amb altes aplicacións:**
+  * GitHub permet la sincronització amb aplicacions com: Travis CI, ZenHub, Slack, Zulip, RocketChat etc. 
+
+
+
+
+
+
+
+
+
