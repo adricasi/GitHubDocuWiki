@@ -64,9 +64,34 @@ D’aquesta manera, GitHub seguint la seva filosofia, proporciona recursos molt 
 
 </WRAP>
 
+===== Història i estat recent =====
+
+<WRAP justify>
+Git va ser creat l’any 2005 per Linus Torvalds i els seus desenvolupadors pel fet que cap sistema de control de versions complia amb els requisits per ser utilitzat en el desenvolupament del kernel de Linux. Doncs el projecte Linux va ser el primer a adoptar-lo com a sistema de control de versions.
+
+Dos anys més tard, a l’octubre de 2007, va començar el desenvolupament de GitHub per Tom Preston-Werner, Chris Wanstrath i PJ Hyett i va ser llançat l’abril de 2008 després d’estar disponible uns mesos abans en període beta.
+
+Censura: l’any 2014, GitHub va ser bloquejat a diversos països com Rússia i l'Índia degut a continguts sospitosos. 
+
+Al 2015, GitHub va caure víctima d’un atac de denegació de servei (DDoS) originat a la Xina. 
+
+El 28 de febrer de 2018, GitHub va ser víctima de l'atac de denegació de servei distribuït (DDoS) més gran de la història.
+
+</WRAP>
+
+===== Estat actual =====
+
+<WRAP justify>
+
+Adquisició per Microsoft: Al juny de 2018, Microsoft va anunciar l’intenció d’adquirir GitHub per 7.500 milions de dòlars i l’acord es va tancar el 26 d’octubre de 2018.
+
+GitHub continuarà operant de manera independent com a comunitat, plataforma i empresa sota Microsoft, el servei estarà liderat per Nat Friedman de Xamarin.
+
+Darrera versió estable 2.15.4 (GitHub Enterprise a l’11 de desembre del 2018)
+
+REST API v3 https://developer.github.com/v3/#current-version 
 
 
-
-
+</WRAP>
 
 
