@@ -228,3 +228,41 @@ Funcionament: Travis CI clona el repositori GitHub en un entorn virtual i realit
 
 </WRAP>
 
+===== Tipologia del projecte =====
+
+==== Model de desenvolupament del projecte ====
+
+<WRAP justify>
+El model de desenvolupament de GitHub és una comunitat, ja que d’acord als seus objectius, se centra en un reclutament continu per fer créixer el projecte entre tots.
+</WRAP>
+
+==== Organització i estructura social, presa de decisions i política de contribució ====
+
+<WRAP justify>
+GitHub, Inc. originalment era una flat organization sense middle managers “qualsevol és un manager” (self-manager).
+
+Els contribuïdors poden optar per treball en projectes que els interessen (open allocation). No obstant això, els salaris són fixats pel chief executive.
+
+El 2014, GitHub Inc. va introduir la capa del middle management.
+
+D’aquesta forma, GitHub està regit per un nombre significant de contribuïdors, basat en un consens democràtic on les decisions són preses democràticament i les contribucions revisades pels contribuïdors.
+</WRAP>
+
+==== És fàcil col·laborar de manera activa? ====
+
+<WRAP justify>
+Un dels objectius de GitHub és facilitar la col·laboració activa entre els diferents desenvolupadors, d’aquesta forma s’encarrega de generar un flux adequat utilitzant metodologies agile pel projecte.
+</WRAP>
+
+==== Resolució de conflictes ====
+
+<WRAP justify>
+GitHub utilitza estratègies de planificació per minimitzar els conflictes i 
+solucionar-los:
+  * Organització de tasques que s’han de dur a terme (per aclarir qui és responsable) entre els diferents col·laboradors del projecte perquè no hi hagi conflictes.
+  * Establir una convenció de projecte que determini l’estil de codi.
+  * Utilitzar branques diferents per separar el treball i unir-se al domini quan el treball estigui finalitzat.
+  * Quan sigui lògicament apropiat, separar tasques grans en altres més petites per facilitar el treball i evitar conflictes. 
+</WRAP>
+
+
