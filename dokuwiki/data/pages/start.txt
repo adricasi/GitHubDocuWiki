@@ -266,3 +266,47 @@ solucionar-los:
 </WRAP>
 
 
+===== Comunitat =====
+
+==== Mida de la comunitat ====
+
+<WRAP justify>
+Comunitat gran amb més de 31 milions d’usuaris registrats a tot el món (amb data de novembre 2018)
+</WRAP>
+
+==== Estructura social ====
+
+<WRAP justify>
+GitHub és una xarxa social col·laborativa, la qual permet comunicar problemes, treballar junts per desenvolupar software que els resolgui i pugui ser d’utilitat. D’aquesta forma segueix una democràcia basada en el consens.
+</WRAP>
+
+
+===== Algunes curiositats addicionals =====
+
+==== Llenguatge de programació ====
+
+<WRAP justify>
+GitHub està desenvolupat en Ruby, que és un llenguatge orientat a objectes, dinàmic i de codi obert.
+</WRAP>
+
+==== Mida de l'equip de desenvolupament actual ====
+<WRAP justify>
+Actualment l’equip de desenvolupament de GitHub consta de 201 desenvolupadors, on dins els diferents projectes pot arribar a tindre més contribuïdors.
+</WRAP>
+
+==== Resultats obtinguts ====
+
+<WRAP justify>
+GitHub consta de 293 repositoris: https://github.com/github 
+
+Un dels repositoris principals és hub: https://github.com/github/hub
+ja que ajuda a formar GitHub (git + hub = github), aquest repositori proporciona diverses versions de hub, actualment l'última versió és la 2.7.0, consta de  2.779 commits i 181 contribuïdors.
+
+
+Un altre repositori important és github_services: https://github.com/github/github-services, el qual conté codi per integrar serveis a GitHub.com proporcionats per tercers. Aquest repositori consta de 15.985 línies de codi,  542 contribuïdors, 3.452 commits i el primer commit va ser l’Abril de 2008.
+
+Finalment, un altre repositori a destacar és el que correspon al codi destinat per la versió d’escriptori: https://github.com/desktop/desktop. El qual consta de 159.660 línies de codi, 151 contribuïdors, 18.215 commits, principalment està escrit en JavaScript i el primer commit va ser el Maig de 2016.  
+
+GitHub, dins del rank global Alexa  es troba en la posició 66. (Desembre 2018) 
+
+</WRAP>
