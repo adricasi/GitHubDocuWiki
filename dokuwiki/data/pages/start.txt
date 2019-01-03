@@ -6,6 +6,9 @@ GitHub és una plataforma de desenvolupament col·laboratiu i servei de hosting 
 
 {{youtube>w3jLJU7DT5E?large}}
 
+
+----
+
 ===== Contextualització =====
 
 
@@ -103,6 +106,8 @@ REST API v3 https://developer.github.com/v3/#current-version
 </WRAP>
 
 
+----
+
 ===== Sistema empresarial =====
 
 ==== Productes o serveis oferts ====
@@ -169,6 +174,8 @@ No permet: les subllicències i la responsabilitat.
 
 </WRAP>
 
+----
+
 ===== Infraestructura de suport al desenvolupament =====
 
 ==== Repositori del projecte ====
@@ -228,6 +235,8 @@ Funcionament: Travis CI clona el repositori GitHub en un entorn virtual i realit
 
 </WRAP>
 
+----
+
 ===== Tipologia del projecte =====
 
 ==== Model de desenvolupament del projecte ====
@@ -266,6 +275,8 @@ solucionar-los:
 </WRAP>
 
 
+----
+
 ===== Comunitat =====
 
 ==== Mida de la comunitat ====
@@ -280,6 +291,8 @@ Comunitat gran amb més de 31 milions d’usuaris registrats a tot el món (amb 
 GitHub és una xarxa social col·laborativa, la qual permet comunicar problemes, treballar junts per desenvolupar software que els resolgui i pugui ser d’utilitat. D’aquesta forma segueix una democràcia basada en el consens.
 </WRAP>
 
+
+----
 
 ===== Algunes curiositats addicionals =====
 
