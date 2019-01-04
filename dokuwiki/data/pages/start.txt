@@ -362,10 +362,25 @@ Amb GitLab es pot establir i modificar els permisos de les persones d'acord amb 
 GitLab ofereix la seva propia integració continua gratuïtament, permeten inclús l'ús d’un servei extern si es desitja (Jenkins, Codeship...).
 D’altra banda, GitHub ofereix diverses integracions de tercers, com Travis CI, CircleCI o Codehip, per executar i provar el codi.
 
-
+</WRAP>
 ----
 
 === Taula de característiques ===
 
-{{:wiki:githubvsgitlab.png?direct&800 |}}
+
+<WRAP center round box 100%>
+{{ :wiki:githubvsgitlab.png?direct&800 |}}
+</WRAP>
+
+----
+
+===== Avaluació personal =====
+
+<WRAP justify>
+Després d’aquesta anàlisi de GitHub en el que ens ha calgut indagar sobre diferents aspectes que desconeixíem sobre el programari lliure, hem assolit nous coneixements en observar un cas real i que realment ens toca ben a prop, el projecte GitHub, una eina amb la qual estem treballant diàriament i de la que desconeixíem gran part de la seva filosofia. 
+
+Realment ha estat molt interessant i educatiu haver indagat en aspectes d’aquesta eina per tal d’entendre millor les diferents estructures que pot seguir un projecte de programari lliure. GitHub ens ha demostrat que en els diferents apartats tractats (sistema de negoci, infraestructura de suport per desenvolupadors, tipologia del projecte, comunitat i altres aspectes curiosos) que és fidel als seus principis i a la seva filosofia de construir mitjançant la col·laboració. Això és un aspecte molt positiu del qual podem aprendre molts valors relacionats amb el programari lliure. 
+
+D’aquesta forma, GitHub ens ha demostrat que sense desviar-se d’uns principis bàsics, el programari lliure és capaç de generar una comunitat col·laborativa, que ajudi en el creixement del programari, d’utilitzar infraestructures de suport per als desenvolupadors, poden facilitar la incorporació de qualsevol que vulgui col·laborar, Aplicar diferents tipus de sistemes de negoci, tant proporcionant noves funcionalitats a canvi d’una quota mensual com comercialitzant accessoris i finalment definir una tipologia en què es defineix un model de desenvolupament, una organització i una estructura social que determinin les preses de decisions i les polítiques de contribució. 
+
 </WRAP>
