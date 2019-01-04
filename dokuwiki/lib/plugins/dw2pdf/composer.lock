@@ -88,8 +88,7 @@
                 "shasum": ""
             },
             "require": {
-                "php": ">=5.3.0",
-			"ext-mbstring": "*"
+                "php": ">=5.3.0"
             },
             "type": "library",
             "extra": {

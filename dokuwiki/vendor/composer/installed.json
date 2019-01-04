@@ -57,6 +57,7 @@
             "shasum": ""
         },
         "require": {
+		 "ext-mbstring": "*",
             "php": ">=5.0"
         },
         "require-dev": {
@@ -204,6 +205,7 @@
             "shasum": ""
         },
         "require": {
+		 "ext-mbstring": "*",
             "php": ">=5.2.0"
         },
         "require-dev": {
@@ -254,6 +256,7 @@
             "shasum": ""
         },
         "require": {
+		 "ext-mbstring": "*",
             "php": ">=5.3.0"
         },
         "require-dev": {
@@ -316,6 +319,7 @@
             "shasum": ""
         },
         "require": {
+		 "ext-mbstring": "*",
             "php": ">=5.3.0"
         },
         "require-dev": {
@@ -369,6 +373,7 @@
             "shasum": ""
         },
         "require": {
+		 "ext-mbstring": "*",
             "php": ">=5.3.3"
         },
         "require-dev": {
@@ -463,6 +468,7 @@
             "shasum": ""
         },
         "require": {
+		 "ext-mbstring": "*",
             "php": ">=5.4"
         },
         "require-dev": {
