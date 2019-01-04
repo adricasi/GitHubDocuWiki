@@ -7,6 +7,7 @@
         }
     ],
     "require": {
+	  "ext-mbstring": "*"
         "mpdf/mpdf": "7.0.3"
     },
     "replace": {
