@@ -1,0 +1,577 @@
+<a name="start__"></a>
+<h1><bookmark content="GitHub" level="0" /><a name="start__github">GitHub</a></h1>
+<div class="level1">
+<!-- EDIT{&quot;target&quot;:&quot;plugin_wrap_start&quot;,&quot;secid&quot;:1,&quot;range&quot;:&quot;0-&quot;} --><div class="wrap_justify plugin_wrap">
+<p>
+GitHub és una plataforma de desenvolupament col·laboratiu i servei de hosting de programari lliure per allotjar projectes, utilitzant el sistema de control de versions Git.
+</p>
+</div><!-- EDIT{&quot;target&quot;:&quot;plugin_wrap_end&quot;,&quot;secid&quot;:2,&quot;range&quot;:&quot;0-&quot;} --><div class="vshare__none"
+                             width="520"
+                             height="293"><a href="//www.youtube-nocookie.com/embed/w3jLJU7DT5E" class="vshare"><img src="/GitHubDocuWiki/dokuwiki/lib/plugins/vshare/video.png" /></a><br /><a href="//www.youtube-nocookie.com/embed/w3jLJU7DT5E" class="vshare">Video</a></div><hr />
+
+</div>
+
+<h2><bookmark content="Contextualització" level="1" /><a name="start__contextualitzacio">Contextualització</a></h2>
+<div class="level2">
+
+</div>
+
+<h3><bookmark content="Descripció del projecte" level="2" /><a name="start__descripcio_del_projecte">Descripció del projecte</a></h3>
+<div class="level3">
+<!-- EDIT{&quot;target&quot;:&quot;plugin_wrap_start&quot;,&quot;secid&quot;:3,&quot;range&quot;:&quot;0-&quot;} --><div class="wrap_justify plugin_wrap">
+<p>
+GitHub està basada en Git que és un sistema de control de versions distribuït dissenyat per millorar l&#039;eficiència i integritat de les dades. 
+</p>
+
+<p>
+A diferència de Git, GitHub proporciona una interfície gràfica per a web i escriptori, així com per la integració mòbil. A més, proporciona control d&#039;accés i funcions de col·laboració, com el seguiment d’errors, peticions de tasques (feature requests), gestió de tasques i wikis per a cada projecte.
+</p>
+
+<p>
+<strong>- 1. Requisits funcionals</strong>
+</p>
+
+<p>
+Registre: El registre pels usuaris és opcional, però necessari per crear i unir (joining) projectes. 
+</p>
+
+<p>
+Un usuari ha de crear un compte per tal d&#039;aportar continguts al lloc, però qualsevol usuari pot navegar i descarregar els repositoris públics.
+</p>
+
+<p>
+Amb un compte d&#039;usuari registrat, els usuaris poden tenir discussions, administrar repositoris, enviar contribucions als repositoris d&#039;altres desenvolupadors i revisar els canvis al codi.
+</p>
+
+<p>
+<strong>- 2. Pàgina principal</strong>
+</p>
+
+<p>
+La pàgina d’inici de GitHub és: <a href="https://github.com/" class="urlextern" title="https://github.com/" rel="nofollow">https://github.com/</a>
+</p>
+</div><!-- EDIT{&quot;target&quot;:&quot;plugin_wrap_end&quot;,&quot;secid&quot;:4,&quot;range&quot;:&quot;0-&quot;} -->
+</div>
+
+<h3><bookmark content="Objectius i motivacions" level="2" /><a name="start__objectius_i_motivacions">Objectius i motivacions</a></h3>
+<div class="level3">
+<!-- EDIT{&quot;target&quot;:&quot;plugin_wrap_start&quot;,&quot;secid&quot;:5,&quot;range&quot;:&quot;0-&quot;} --><div class="wrap_justify plugin_wrap">
+<p>
+GitHub és una eina de control de version molt coneguda i utilitzada per la gran varietat d’utilitats que proporciona, ja que abasta una sèrie d’objectius que inciten i motiven als usuaris a treballar amb la filosofia que aporta aquesta eina. 
+</p>
+
+<p>
+El principal objectiu de GitHub és ajudar en el desenvolupament de software per resoldre problemes en grup, d’aquesta forma, motiva als diferents implicats en el projecte a comunicar-se, de forma que puguin obrir temes de debat (issues) sobre diversos problemes o necessitats i gestionar les tasques a realitzar. Així doncs, diferents membres del grup poden estar treballant en diferents tasques en el mateix temps, D&#039;aquesta forma, un altre objectiu de GitHub, és permetre als membres del grup poder treballar/experimentar sense risc de perdre els progressos assolits, permeten crear noves branques i guardar el progrés, mantenint un registre de les contribucions i opinions, ja que quan es vol compartir una tasca ja finalitzada i preparada per col·laborar amb l’equip de treball, permet fer una solicitud dels canvis realitzats, així els altres membres poden revisar i analitzar els canvis, aportant ajuda o millores. Quan s’accepten els canvis, el nou codi s’incorpora en el projecte, estant disponible per tots els membres.
+</p>
+
+<p>
+GitHub pretén proporcionar una plataforma on es pugui col·laborar per comunicar problemes, treballar tots junts per desenvolupar software que els resolgui i poder compartir aquests projectes que poden arribar a ajudar a persones de formes inimaginables.
+</p>
+
+<p>
+D’aquesta manera, GitHub seguint la seva filosofia, proporciona recursos molt útils pels equips de treball:
+</p>
+
+<p>
+<strong>Flux de treball:</strong>
+</p>
+<ul>
+<li class="level1"><div class="li"> Crear branques, per poder treballar/experimentar sense risc de perdre els progressos assolits.</div>
+</li>
+<li class="level1"><div class="li"> Afegir commits, per deixar rastre del progrés.</div>
+</li>
+<li class="level1"><div class="li"> Demanar pull request dels canvis, permeten la revisió als altres membres de l’equip.</div>
+</li>
+</ul>
+
+<p>
+<strong>GitHub pages:</strong>
+</p>
+<ul>
+<li class="level1"><div class="li"> Un altre objectiu de GitHub és donar un servei de hosting on s&#039;allotja el projecte i l’equip pugui gestionar el flux de treball</div>
+</li>
+</ul>
+
+<p>
+<strong>Forking projects:</strong>
+</p>
+<!-- EDIT{&quot;target&quot;:&quot;plugin_wrap_start&quot;,&quot;secid&quot;:7,&quot;range&quot;:&quot;0-&quot;} --><div class="wrap_justify plugin_wrap"><ul>
+<li class="level1"><div class="li"> Un altre objectiu de GitHub és que els projectes vagin evolucionant i crear una comunitat en la qual es resolguin problemes entre tots, d’aquesta forma motiva als seus usuaris a poder crear una còpia dels projectes, permeten partir d’un projecte ja començat, que després pot encarar-se cap a funcionalitats diferents i acabar sent un projecte diferent o aportar en el projecte principal. </div>
+</li>
+</ul>
+</div><!-- EDIT{&quot;target&quot;:&quot;plugin_wrap_end&quot;,&quot;secid&quot;:8,&quot;range&quot;:&quot;0-&quot;} -->
+<p>
+<strong>Sociabilitzar:</strong>
+</p>
+<ul>
+<li class="level1"><div class="li"> Element de llista de picsGitHub pretén crear un ambient de col·laboració, per tant permet als usuaris seguir altes usuaris i projectes.</div>
+</li>
+</ul>
+
+<p>
+<strong>Control de tasques:</strong>
+</p>
+<ul>
+<li class="level1"><div class="li"> GitHub proporciona un entorn en què permet als membres d’un projecte crear tasques a realitzar en el projecte i en les quals permet, priorització, assignació, estimació del temps i debat, potenciant d’aquesta forma la comunicació entre l’equip.</div>
+</li>
+</ul>
+
+<p>
+<strong>Documentació dels projectes:</strong>
+</p>
+<ul>
+<li class="level1"><div class="li"> GitHub intenta motivar als seus usuaris a documentar el projecte de tal forma que pugui ser útil per nous membre de l’equip o per altres usuaris interessats en el projecte, d’aquesta forma proporciona una wiki per realitzar la documentació.</div>
+</li>
+</ul>
+
+<p>
+<strong>Col·laboració amb altes aplicacións:</strong>
+</p>
+<ul>
+<li class="level1"><div class="li"> GitHub permet la sincronització amb aplicacions com: Travis CI, ZenHub, Slack, Zulip, RocketChat etc. </div>
+</li>
+</ul>
+</div><!-- EDIT{&quot;target&quot;:&quot;plugin_wrap_end&quot;,&quot;secid&quot;:6,&quot;range&quot;:&quot;0-&quot;} -->
+</div>
+
+<h3><bookmark content="Història i estat recent" level="2" /><a name="start__historia_i_estat_recent">Història i estat recent</a></h3>
+<div class="level3">
+<!-- EDIT{&quot;target&quot;:&quot;plugin_wrap_start&quot;,&quot;secid&quot;:9,&quot;range&quot;:&quot;0-&quot;} --><div class="wrap_justify plugin_wrap">
+<p>
+Git va ser creat l’any 2005 per Linus Torvalds i els seus desenvolupadors pel fet que cap sistema de control de versions complia amb els requisits per ser utilitzat en el desenvolupament del kernel de Linux. Doncs el projecte Linux va ser el primer a adoptar-lo com a sistema de control de versions.
+</p>
+
+<p>
+Dos anys més tard, l’octubre de 2007, va començar el desenvolupament de GitHub per Tom Preston-Werner, Chris Wanstrath i PJ Hyett i va ser llançat l’abril de 2008 després d’estar disponible uns mesos abans en període beta.
+</p>
+
+<p>
+Censura: l’any 2014, GitHub va ser bloquejat a diversos països com Rússia i l&#039;Índia a causa de continguts sospitosos. 
+</p>
+
+<p>
+El 2015, GitHub va caure víctima d’un atac de denegació de servei (DDoS) originat a la Xina. 
+</p>
+
+<p>
+El 28 de febrer de 2018, GitHub va ser víctima de l&#039;atac de denegació de servei distribuït (DDoS) més gran de la història.
+</p>
+</div><!-- EDIT{&quot;target&quot;:&quot;plugin_wrap_end&quot;,&quot;secid&quot;:10,&quot;range&quot;:&quot;0-&quot;} -->
+</div>
+
+<h3><bookmark content="Estat actual" level="2" /><a name="start__estat_actual">Estat actual</a></h3>
+<div class="level3">
+<!-- EDIT{&quot;target&quot;:&quot;plugin_wrap_start&quot;,&quot;secid&quot;:11,&quot;range&quot;:&quot;0-&quot;} --><div class="wrap_justify plugin_wrap">
+<p>
+Adquisició per Microsoft: El juny de 2018, Microsoft va anunciar la intenció d’adquirir GitHub per 7.500 milions de dòlars i l’acord es va tancar el 26 d’octubre de 2018.
+</p>
+
+<p>
+GitHub continuarà operant de manera independent com a comunitat, plataforma i empresa sota Microsoft, el servei estarà liderat per Nat Friedman de Xamarin.
+</p>
+
+<p>
+Darrera versió estable 2.15.4 (GitHub Enterprise a l’11 de desembre del 2018)
+</p>
+
+<p>
+REST API v3 <a href="https://developer.github.com/v3/#current-version" class="urlextern" title="https://developer.github.com/v3/#current-version" rel="nofollow">https://developer.github.com/v3/#current-version</a>
+</p>
+</div><!-- EDIT{&quot;target&quot;:&quot;plugin_wrap_end&quot;,&quot;secid&quot;:12,&quot;range&quot;:&quot;0-&quot;} --><hr />
+
+</div>
+
+<h2><bookmark content="Sistema empresarial" level="1" /><a name="start__sistema_empresarial">Sistema empresarial</a></h2>
+<div class="level2">
+
+</div>
+
+<h3><bookmark content="Productes o serveis oferts" level="2" /><a name="start__productes_o_serveis_oferts">Productes o serveis oferts</a></h3>
+<div class="level3">
+<!-- EDIT{&quot;target&quot;:&quot;plugin_wrap_start&quot;,&quot;secid&quot;:13,&quot;range&quot;:&quot;0-&quot;} --><div class="wrap_justify plugin_wrap"><ul>
+<li class="level1"><div class="li"> <em class="u">GitHub</em>: Als projectes de GitHub es pot accedir i manipular amb la interfície estàndard de la línia d’ordres de Git. El lloc proporciona funcions similars a les xarxes socials com els feeds, permet tenir seguidors, wikis (usant un programari anomenat Gollum) i un gràfic per mostrar com els desenvolupadors treballen en les seves versions (forks) d’un repositori.  </div>
+</li>
+</ul>
+<ul>
+<li class="level1"><div class="li"> <em class="u">GitHub Enterprise</em>: És similar al servei GitHub, però està dissenyat per a ser utilitzat per equips de desenvolupament de programari empresarial a gran escala, on les empreses allotgen els seus repositoris darrere d’un firewall corporatiu. </div>
+</li>
+</ul>
+<ul>
+<li class="level1"><div class="li"> <em class="u">Gists</em>: És un lloc pastebin-style que serveix per allotjar fragments de codi i un servei d’allotjament slide anomenat Speaker Deck.</div>
+</li>
+</ul>
+<ul>
+<li class="level1"><div class="li"> <em class="u">Education program</em>: GitHub va llançar un programa anomenat GitHub Student Developer Pack per donar accés als estudiants a eines i serveis de desenvolupament. GitHub es va associar amb plataformes com Bitnami i Travis CI entre altres, per llança el programa.</div>
+</li>
+</ul>
+<ul>
+<li class="level1"><div class="li"> <em class="u">GitHub Marketplace service</em>: GitHub també proporciona integracions Software as a Service (SaaS) per afegir funcions addicionals als projectes. Aquests serveis son:</div>
+</li>
+</ul>
+<ol>
+<li class="level1"><div class="li"> Travis CI: servei d’integració contínua hostatjat i distribuït que s’utilitza per construir i fer tests dels projectes allotjats a GitHub.</div>
+</li>
+<li class="level1"><div class="li"> Codebeat: per a l’anàlisi de codi automatitzat, especialitzat en web i mòbils.</div>
+</li>
+<li class="level1"><div class="li"> Waffle.io</div>
+</li>
+<li class="level1"><div class="li"> Rollbar</div>
+</li>
+<li class="level1"><div class="li"> GitLocalize</div>
+</li>
+</ol>
+</div><!-- EDIT{&quot;target&quot;:&quot;plugin_wrap_end&quot;,&quot;secid&quot;:14,&quot;range&quot;:&quot;0-&quot;} -->
+</div>
+
+<h3><bookmark content="Cost pels usuaris" level="2" /><a name="start__cost_pels_usuaris">Cost pels usuaris</a></h3>
+<div class="level3">
+<!-- EDIT{&quot;target&quot;:&quot;plugin_wrap_start&quot;,&quot;secid&quot;:15,&quot;range&quot;:&quot;0-&quot;} --><div class="wrap_justify plugin_wrap">
+<p>
+GitHub és gratuït per a projectes públics i de codi obert. Per treballar amb repositoris privats il·limitats, disposa d’un pla de pagament amb diferents costos mensuals, segons el flux de treball que volem:
+</p>
+<ul>
+<li class="level1"><div class="li"> Developer: $7 Inclou: (Compte personal, dipòsits públics il·limitats, dipòsits privats il·limitats i col·laboradors il·limitats)</div>
+</li>
+<li class="level1"><div class="li"> Team: $9 (Repositoris públics i privats il·limitats i permisos per a equips i usuari)</div>
+</li>
+<li class="level1"><div class="li"> Business Cloud: $21 (assistència 24/5 amb temps de resposta de 8 hores)</div>
+</li>
+<li class="level1"><div class="li"> Enterprise: $21* (hosting personal, suport 24/7 per a problemes urgents, auditoria avançada)</div>
+</li>
+</ul>
+</div><!-- EDIT{&quot;target&quot;:&quot;plugin_wrap_end&quot;,&quot;secid&quot;:16,&quot;range&quot;:&quot;0-&quot;} -->
+</div>
+
+<h3><bookmark content="Model de negoci i font d&#039;ingressos" level="2" /><a name="start__model_de_negoci_i_font_d_ingressos">Model de negoci i font d&#039;ingressos</a></h3>
+<div class="level3">
+<!-- EDIT{&quot;target&quot;:&quot;plugin_wrap_start&quot;,&quot;secid&quot;:17,&quot;range&quot;:&quot;0-&quot;} --><div class="wrap_justify plugin_wrap">
+<p>
+Els models de negoci i fonts d’ingrés que utilitza github es basen a obtenir bona reputació, la qual utilitzen per comercialitzar accessoris: <a href="https://github.myshopify.com/" class="urlextern" title="https://github.myshopify.com/" rel="nofollow">https://github.myshopify.com/</a> (samarretes, tasses, adhesius, figures…), d&#039;altra banda, a part de les funcionalitats gratuïtes donen l&#039;opció d’obtenir altres funcionalitats com poder crear repositoris privats, la qual cosa implica tenir una subscripció de pagament. 
+</p>
+</div><!-- EDIT{&quot;target&quot;:&quot;plugin_wrap_end&quot;,&quot;secid&quot;:18,&quot;range&quot;:&quot;0-&quot;} -->
+</div>
+
+<h3><bookmark content="Mètode de finançament" level="2" /><a name="start__metode_de_financament">Mètode de finançament</a></h3>
+<div class="level3">
+<!-- EDIT{&quot;target&quot;:&quot;plugin_wrap_start&quot;,&quot;secid&quot;:19,&quot;range&quot;:&quot;0-&quot;} --><div class="wrap_justify plugin_wrap">
+<p>
+GitHub és Freemium Software
+Github.com va ser creada com una startup business.
+</p>
+
+<p>
+El mètode de finançament de GitHub és finançament pel qual necessita millores, es basa a proporcionar noves funcionalitats, millores o actualitzacions a les companyies o desenvolupadors que ho requereixin, a canvi d’una quota mensual. 
+</p>
+</div><!-- EDIT{&quot;target&quot;:&quot;plugin_wrap_end&quot;,&quot;secid&quot;:20,&quot;range&quot;:&quot;0-&quot;} -->
+</div>
+
+<h3><bookmark content="Llicències i les seves implicacions" level="2" /><a name="start__llicencies_i_les_seves_implicacions">Llicències i les seves implicacions</a></h3>
+<div class="level3">
+<!-- EDIT{&quot;target&quot;:&quot;plugin_wrap_start&quot;,&quot;secid&quot;:21,&quot;range&quot;:&quot;0-&quot;} --><div class="wrap_justify plugin_wrap">
+<p>
+Com GitHub està basat en Git, també està sota els termes de la GNU General Public License v2.
+</p>
+
+<p>
+Aquesta llicència permet: l’ús comercial, modificar, distribuir i garantia de lloc
+No permet: les subllicències i la responsabilitat.
+</p>
+</div><!-- EDIT{&quot;target&quot;:&quot;plugin_wrap_end&quot;,&quot;secid&quot;:22,&quot;range&quot;:&quot;0-&quot;} --><hr />
+
+</div>
+
+<h2><bookmark content="Infraestructura de suport al desenvolupament" level="1" /><a name="start__infraestructura_de_suport_al_desenvolupament">Infraestructura de suport al desenvolupament</a></h2>
+<div class="level2">
+
+</div>
+
+<h3><bookmark content="Repositori del projecte" level="2" /><a name="start__repositori_del_projecte">Repositori del projecte</a></h3>
+<div class="level3">
+
+<p>
+El conjunt de repositoris del projecte de GitHub estan a: <a href="https://github.com/github" class="urlextern" title="https://github.com/github" rel="nofollow">https://github.com/github</a>
+</p>
+
+<p>
+La plataforma GitHub té més de 100 milions de repositoris allotjats.
+</p>
+
+</div>
+
+<h3><bookmark content="Mecanismes de comunicació" level="2" /><a name="start__mecanismes_de_comunicacio">Mecanismes de comunicació</a></h3>
+<div class="level3">
+<!-- EDIT{&quot;target&quot;:&quot;plugin_wrap_start&quot;,&quot;secid&quot;:23,&quot;range&quot;:&quot;0-&quot;} --><div class="wrap_justify plugin_wrap">
+<p>
+Una de les grans funcionalitats de GitHub és la possibilitat de connectar amb altres desenvolupadors, amb quins projectes treballen i amb qui es connecten. Quan segueixes a algú, rebràs notificacions sobre la seva activitat de GitHub. D’aquesta manera pots trobar nous projectes i nous usuaris amb les quals pots compartir interessos.
+</p>
+
+<p>
+Per altra part, GitHub té un fòrum de la comunitat on pots seguir discussions, compartir idees amb altres desenvolupadors, trobar solucions i ajudar a altres membres de la comunitat GitHub.
+</p>
+
+<p>
+A més, permet connectar el teu compte d&#039;usuari GitHub juntament amb Slack, que és una eina de comunicació en equip que permet crear espais de treball per poder col·laborar en línia, comunicar-te ràpidament amb altres membres i augmentar el rendiment del treball.
+</p>
+</div><!-- EDIT{&quot;target&quot;:&quot;plugin_wrap_end&quot;,&quot;secid&quot;:24,&quot;range&quot;:&quot;0-&quot;} -->
+</div>
+
+<h3><bookmark content="Eines de documentació" level="2" /><a name="start__eines_de_documentacio">Eines de documentació</a></h3>
+<div class="level3">
+<!-- EDIT{&quot;target&quot;:&quot;plugin_wrap_start&quot;,&quot;secid&quot;:25,&quot;range&quot;:&quot;0-&quot;} --><div class="wrap_justify plugin_wrap">
+<p>
+Dins del repositori s’inclou l’arxiu README que té com a objectiu, orientar als desenvolupadors que pot fer un projecte.
+</p>
+
+<p>
+A més, cada repositori de GitHub proporciona una secció d’allotjament per a documentació, anomenada wiki que s’utilitza per proporcionar documentació addicional. 
+</p>
+
+<p>
+La Wiki és un espai del repositori d’un projecte de GitHub on es pot compartir continguts del projecte: com utilitzar el projecte, com s’ha dissenyat o quines són les configuracions que s’han de fer per utilitzar el projecte (si cal fer-ho).
+Permeten convertir el text a diferents formats de sortida com HTML, Markdown, RST  o qualsevol altre format compatible amb pàgines wiki.
+</p>
+
+<p>
+Els Wikis poden editar-se directament a GitHub o amb un editor de text offline i simplement introduir els canvis.
+</p>
+
+<p>
+Com a restricció, s’ha de dir que només els col·laboradors del repositori poden fer canvis a les wikis, però també es pot habilitar perquè tots els usuaris puguin editar.
+</p>
+</div><!-- EDIT{&quot;target&quot;:&quot;plugin_wrap_end&quot;,&quot;secid&quot;:26,&quot;range&quot;:&quot;0-&quot;} -->
+</div>
+
+<h3><bookmark content="Eina de control de versions" level="2" /><a name="start__eina_de_control_de_versions">Eina de control de versions</a></h3>
+<div class="level3">
+<!-- EDIT{&quot;target&quot;:&quot;plugin_wrap_start&quot;,&quot;secid&quot;:27,&quot;range&quot;:&quot;0-&quot;} --><div class="wrap_justify plugin_wrap">
+<p>
+GitHub utilitza Git com eina de control de versions distribuïda, utilitzada per al desenvolupament de programari de codi obert.
+</p>
+
+<p>
+Git proporciona a cada desenvolupador una còpia del seu propi repositori a local amb una història completa dels commits fets. Això fa augmentar el rendiment, ja que no necessites connexió de xarxa per crear commits, inspeccionar versions anteriors dels fitxers o comparar les diferències entre commits.
+</p>
+</div><!-- EDIT{&quot;target&quot;:&quot;plugin_wrap_end&quot;,&quot;secid&quot;:28,&quot;range&quot;:&quot;0-&quot;} -->
+</div>
+
+<h3><bookmark content="Eina de seguiment d&#039;errors" level="2" /><a name="start__eina_de_seguiment_d_errors">Eina de seguiment d&#039;errors</a></h3>
+<div class="level3">
+<!-- EDIT{&quot;target&quot;:&quot;plugin_wrap_start&quot;,&quot;secid&quot;:29,&quot;range&quot;:&quot;0-&quot;} --><div class="wrap_justify plugin_wrap">
+<p>
+GitHub permet fer el seguiment d’errors amb diferents eines d’integració continua com Travis CI, que és un servei d’integració continua, distribuït que permet construir, depurar i fer tests de projectes de software allotjats a GitHub.
+</p>
+
+<p>
+Funcionament: Travis CI clona el repositori GitHub en un entorn virtual i realitza una sèrie de tasques per construir i provar el codi. Si una o més d’aquestes tasques falla, la construcció es considera trencada i es mostra on estan els errors.
+</p>
+</div><!-- EDIT{&quot;target&quot;:&quot;plugin_wrap_end&quot;,&quot;secid&quot;:30,&quot;range&quot;:&quot;0-&quot;} --><hr />
+
+</div>
+
+<h2><bookmark content="Tipologia del projecte" level="1" /><a name="start__tipologia_del_projecte">Tipologia del projecte</a></h2>
+<div class="level2">
+
+</div>
+
+<h3><bookmark content="Model de desenvolupament del projecte" level="2" /><a name="start__model_de_desenvolupament_del_projecte">Model de desenvolupament del projecte</a></h3>
+<div class="level3">
+<!-- EDIT{&quot;target&quot;:&quot;plugin_wrap_start&quot;,&quot;secid&quot;:31,&quot;range&quot;:&quot;0-&quot;} --><div class="wrap_justify plugin_wrap">
+<p>
+El model de desenvolupament de GitHub és una comunitat, ja que d’acord als seus objectius, se centra en un reclutament continu per fer créixer el projecte entre tots.
+</p>
+</div><!-- EDIT{&quot;target&quot;:&quot;plugin_wrap_end&quot;,&quot;secid&quot;:32,&quot;range&quot;:&quot;0-&quot;} -->
+</div>
+
+<h3><bookmark content="Organització i estructura social, presa de decisions i política de contribució" level="2" /><a name="start__organitzacio_i_estructura_social_presa_de_decisions_i_politica_de_contribucio">Organització i estructura social, presa de decisions i política de contribució</a></h3>
+<div class="level3">
+<!-- EDIT{&quot;target&quot;:&quot;plugin_wrap_start&quot;,&quot;secid&quot;:33,&quot;range&quot;:&quot;0-&quot;} --><div class="wrap_justify plugin_wrap">
+<p>
+GitHub, Inc. originalment era una flat organization sense middle managers “qualsevol és un manager” (self-manager).
+</p>
+
+<p>
+Els contribuïdors poden optar per treball en projectes que els interessen (open allocation). No obstant això, els salaris són fixats pel chief executive.
+</p>
+
+<p>
+El 2014, GitHub Inc. va introduir la capa del middle management.
+</p>
+
+<p>
+D’aquesta forma, GitHub està regit per un nombre significant de contribuïdors, basat en un consens democràtic on les decisions són preses democràticament i les contribucions revisades pels contribuïdors.
+</p>
+</div><!-- EDIT{&quot;target&quot;:&quot;plugin_wrap_end&quot;,&quot;secid&quot;:34,&quot;range&quot;:&quot;0-&quot;} -->
+</div>
+
+<h3><bookmark content="És fàcil col·laborar de manera activa?" level="2" /><a name="start__es_facil_col_laborar_de_manera_activa">És fàcil col·laborar de manera activa?</a></h3>
+<div class="level3">
+<!-- EDIT{&quot;target&quot;:&quot;plugin_wrap_start&quot;,&quot;secid&quot;:35,&quot;range&quot;:&quot;0-&quot;} --><div class="wrap_justify plugin_wrap">
+<p>
+Un dels objectius de GitHub és facilitar la col·laboració activa entre els diferents desenvolupadors, d’aquesta forma s’encarrega de generar un flux adequat utilitzant metodologies agile pel projecte.
+</p>
+</div><!-- EDIT{&quot;target&quot;:&quot;plugin_wrap_end&quot;,&quot;secid&quot;:36,&quot;range&quot;:&quot;0-&quot;} -->
+</div>
+
+<h3><bookmark content="Resolució de conflictes" level="2" /><a name="start__resolucio_de_conflictes">Resolució de conflictes</a></h3>
+<div class="level3">
+<!-- EDIT{&quot;target&quot;:&quot;plugin_wrap_start&quot;,&quot;secid&quot;:37,&quot;range&quot;:&quot;0-&quot;} --><div class="wrap_justify plugin_wrap">
+<p>
+GitHub utilitza estratègies de planificació per minimitzar els conflictes i 
+solucionar-los:
+</p>
+<ul>
+<li class="level1"><div class="li"> Organització de tasques que s’han de dur a terme (per aclarir qui és responsable) entre els diferents col·laboradors del projecte perquè no hi hagi conflictes.</div>
+</li>
+<li class="level1"><div class="li"> Establir una convenció de projecte que determini l’estil de codi.</div>
+</li>
+<li class="level1"><div class="li"> Utilitzar branques diferents per separar el treball i unir-se al domini quan el treball estigui finalitzat.</div>
+</li>
+<li class="level1"><div class="li"> Quan sigui lògicament apropiat, separar tasques grans en altres més petites per facilitar el treball i evitar conflictes. </div>
+</li>
+</ul>
+</div><!-- EDIT{&quot;target&quot;:&quot;plugin_wrap_end&quot;,&quot;secid&quot;:38,&quot;range&quot;:&quot;0-&quot;} --><hr />
+
+</div>
+
+<h2><bookmark content="Comunitat" level="1" /><a name="start__comunitat">Comunitat</a></h2>
+<div class="level2">
+
+</div>
+
+<h3><bookmark content="Mida de la comunitat" level="2" /><a name="start__mida_de_la_comunitat">Mida de la comunitat</a></h3>
+<div class="level3">
+<!-- EDIT{&quot;target&quot;:&quot;plugin_wrap_start&quot;,&quot;secid&quot;:39,&quot;range&quot;:&quot;0-&quot;} --><div class="wrap_justify plugin_wrap">
+<p>
+Comunitat gran amb més de 31 milions d’usuaris registrats a tot el món (amb data de novembre 2018)
+</p>
+</div><!-- EDIT{&quot;target&quot;:&quot;plugin_wrap_end&quot;,&quot;secid&quot;:40,&quot;range&quot;:&quot;0-&quot;} -->
+</div>
+
+<h3><bookmark content="Estructura social" level="2" /><a name="start__estructura_social">Estructura social</a></h3>
+<div class="level3">
+<!-- EDIT{&quot;target&quot;:&quot;plugin_wrap_start&quot;,&quot;secid&quot;:41,&quot;range&quot;:&quot;0-&quot;} --><div class="wrap_justify plugin_wrap">
+<p>
+GitHub és una xarxa social col·laborativa, la qual permet comunicar problemes, treballar junts per desenvolupar software que els resolgui i pugui ser d’utilitat. D’aquesta forma segueix una democràcia basada en el consens.
+</p>
+</div><!-- EDIT{&quot;target&quot;:&quot;plugin_wrap_end&quot;,&quot;secid&quot;:42,&quot;range&quot;:&quot;0-&quot;} --><hr />
+
+</div>
+
+<h2><bookmark content="Algunes curiositats addicionals" level="1" /><a name="start__algunes_curiositats_addicionals">Algunes curiositats addicionals</a></h2>
+<div class="level2">
+
+</div>
+
+<h3><bookmark content="Llenguatge de programació" level="2" /><a name="start__llenguatge_de_programacio">Llenguatge de programació</a></h3>
+<div class="level3">
+<!-- EDIT{&quot;target&quot;:&quot;plugin_wrap_start&quot;,&quot;secid&quot;:43,&quot;range&quot;:&quot;0-&quot;} --><div class="wrap_justify plugin_wrap">
+<p>
+GitHub està desenvolupat en Ruby, que és un llenguatge orientat a objectes, dinàmic i de codi obert.
+</p>
+</div><!-- EDIT{&quot;target&quot;:&quot;plugin_wrap_end&quot;,&quot;secid&quot;:44,&quot;range&quot;:&quot;0-&quot;} -->
+</div>
+
+<h3><bookmark content="Mida de l&#039;equip de desenvolupament actual" level="2" /><a name="start__mida_de_l_equip_de_desenvolupament_actual">Mida de l&#039;equip de desenvolupament actual</a></h3>
+<div class="level3">
+<!-- EDIT{&quot;target&quot;:&quot;plugin_wrap_start&quot;,&quot;secid&quot;:45,&quot;range&quot;:&quot;0-&quot;} --><div class="wrap_justify plugin_wrap">
+<p>
+Actualment l’equip de desenvolupament de GitHub consta de 201 desenvolupadors, on dins els diferents projectes pot arribar a tindre més contribuïdors.
+</p>
+</div><!-- EDIT{&quot;target&quot;:&quot;plugin_wrap_end&quot;,&quot;secid&quot;:46,&quot;range&quot;:&quot;0-&quot;} -->
+</div>
+
+<h3><bookmark content="Resultats obtinguts" level="2" /><a name="start__resultats_obtinguts">Resultats obtinguts</a></h3>
+<div class="level3">
+<!-- EDIT{&quot;target&quot;:&quot;plugin_wrap_start&quot;,&quot;secid&quot;:47,&quot;range&quot;:&quot;0-&quot;} --><div class="wrap_justify plugin_wrap">
+<p>
+GitHub consta de 293 repositoris: <a href="https://github.com/github" class="urlextern" title="https://github.com/github" rel="nofollow">https://github.com/github</a>
+</p>
+
+<p>
+Un dels repositoris principals és hub: <a href="https://github.com/github/hub" class="urlextern" title="https://github.com/github/hub" rel="nofollow">https://github.com/github/hub</a>
+ja que ajuda a formar GitHub (git + hub = github), aquest repositori proporciona diverses versions de hub, actualment l&#039;última versió és la 2.7.0, consta de  2.779 commits i 181 contribuïdors.
+</p>
+
+<p>
+Un altre repositori important és github_services: <a href="https://github.com/github/github-services" class="urlextern" title="https://github.com/github/github-services" rel="nofollow">https://github.com/github/github-services</a>, el qual conté codi per integrar serveis a GitHub.com proporcionats per tercers. Aquest repositori consta de 15.985 línies de codi,  542 contribuïdors, 3.452 commits i el primer commit va ser l’Abril de 2008.
+</p>
+
+<p>
+Finalment, un altre repositori a destacar és el que correspon al codi destinat per la versió d’escriptori: <a href="https://github.com/desktop/desktop" class="urlextern" title="https://github.com/desktop/desktop" rel="nofollow">https://github.com/desktop/desktop</a>. El qual consta de 159.660 línies de codi, 151 contribuïdors, 18.215 commits, principalment està escrit en JavaScript i el primer commit va ser el Maig de 2016.  
+</p>
+
+<p>
+GitHub, dins del rank global Alexa  es troba en la posició 66. (Desembre 2018) 
+</p>
+</div><!-- EDIT{&quot;target&quot;:&quot;plugin_wrap_end&quot;,&quot;secid&quot;:48,&quot;range&quot;:&quot;0-&quot;} --><hr />
+
+</div>
+
+<h2><bookmark content="GitHub vs GitLab" level="1" /><a name="start__github_vs_gitlab">GitHub vs GitLab</a></h2>
+<div class="level2">
+<!-- EDIT{&quot;target&quot;:&quot;plugin_wrap_start&quot;,&quot;secid&quot;:49,&quot;range&quot;:&quot;0-&quot;} --><div class="wrap_justify plugin_wrap">
+<p>
+Tan GitLab and GitHub proporcionen un servei de hosting per a repositoris Git.
+</p>
+
+<p>
+GitHub és una plataforma amb 31 million d’usuaris (October 2018), els projectes de GitHub poden ser públics i lliurement oberts per tothom, encara que també permet crear projectes privats, però requereix d’un pla de GitHub el qual s’ha de pagar. GitHub proporciona un dipòsit de codis de col·laboració per allotjar i revisar codi, administrar projectes i crear programari. Ofereix tota la funcionalitat de control de versions distribuïdes i codi font (SCM) de Git, a més d&#039;afegir funcions pròpies. Proporciona control d&#039;accés i diverses funcions de col·laboració, com ara el seguiment d&#039;errors, les peticions de funcions, la gestió de tasques i les wikis per a cada projecte.
+</p>
+
+<p>
+D’altra banda, GitLab és un gestor de repositoris escrit en Ruby, el qual  consta de més de 100.000 usuaris, està situat en la posició 1.873 de l’Alexa rank i és utilitzat per empreses com IBM, Sony i la NASA. Ofereix gestions pel seguiment de tasques, revisions del codi, seguiment d&#039;incidències, wikis…
+</p>
+
+<p>
+GitHub no ve amb una plataforma d&#039;implementació i necessita aplicacions addicionals, com Heroku, per implementar aplicacions. En canvi GitLab utilitza Kubernetes per crear una experiència d&#039;implementació fluida en una única aplicació
+</p>
+</div><!-- EDIT{&quot;target&quot;:&quot;plugin_wrap_end&quot;,&quot;secid&quot;:50,&quot;range&quot;:&quot;0-&quot;} -->
+</div>
+
+<h3><bookmark content="Característiques bàsiques" level="2" /><a name="start__caracteristiques_basiques">Característiques bàsiques</a></h3>
+<div class="level3">
+<!-- EDIT{&quot;target&quot;:&quot;plugin_wrap_start&quot;,&quot;secid&quot;:51,&quot;range&quot;:&quot;0-&quot;} --><div class="wrap_justify plugin_wrap"><hr />
+
+<h4><bookmark content="Nivell d’autenticació" level="3" /><a name="start__nivell_d_autenticacio">Nivell d’autenticació</a></h4>
+
+<p>
+Amb GitLab es pot establir i modificar els permisos de les persones d&#039;acord amb la seva funció, permeten inclus l’accés al seguiment de tasques sense necessitat de donar permís al codi font. D’altra banda, GitHub simplement permet decidir si algú obté un accés de lectura o escriptura a un dipòsit.
+</p>
+<hr />
+
+<h4><bookmark content="Integració Continua" level="3" /><a name="start__integracio_continua">Integració Continua</a></h4>
+
+<p>
+GitLab ofereix la seva propia integració continua gratuïtament, permeten inclús l&#039;ús d’un servei extern si es desitja (Jenkins, Codeship…).
+D’altra banda, GitHub ofereix diverses integracions de tercers, com Travis CI, CircleCI o Codehip, per executar i provar el codi.
+</p>
+</div><!-- EDIT{&quot;target&quot;:&quot;plugin_wrap_end&quot;,&quot;secid&quot;:52,&quot;range&quot;:&quot;0-&quot;} --><hr />
+
+</div>
+
+<h4><bookmark content="Taula de característiques" level="3" /><a name="start__taula_de_caracteristiques">Taula de característiques</a></h4>
+<div class="level4">
+<!-- EDIT{&quot;target&quot;:&quot;plugin_wrap_start&quot;,&quot;secid&quot;:53,&quot;range&quot;:&quot;0-&quot;} --><div class="wrap_center wrap_round wrap_box plugin_wrap" style="width: 100%;">
+<p>
+<a href="/GitHubDocuWiki/dokuwiki/lib/exe/fetch.php?media=wiki:githubvsgitlab.png" class="media" title="wiki:githubvsgitlab.png"><div align="center" style="text-align: center"><img src="/GitHubDocuWiki/dokuwiki/lib/exe/fetch.php?w=800&amp;tok=e237b6&amp;media=wiki:githubvsgitlab.png" class="mediacenter" alt="" width="800" /></div></a>
+</p>
+</div><!-- EDIT{&quot;target&quot;:&quot;plugin_wrap_end&quot;,&quot;secid&quot;:54,&quot;range&quot;:&quot;0-&quot;} --><hr />
+
+</div>
+
+<h2><bookmark content="Avaluació personal" level="1" /><a name="start__avaluacio_personal">Avaluació personal</a></h2>
+<div class="level2">
+<!-- EDIT{&quot;target&quot;:&quot;plugin_wrap_start&quot;,&quot;secid&quot;:55,&quot;range&quot;:&quot;0-&quot;} --><div class="wrap_justify plugin_wrap">
+<p>
+Després d’aquesta anàlisi de GitHub en el que ens ha calgut indagar sobre diferents aspectes que desconeixíem sobre el programari lliure, hem assolit nous coneixements en observar un cas real i que realment ens toca ben a prop, el projecte GitHub, una eina amb la qual estem treballant diàriament i de la que desconeixíem gran part de la seva filosofia. 
+</p>
+
+<p>
+Realment ha estat molt interessant i educatiu haver indagat en aspectes d’aquesta eina per tal d’entendre millor les diferents estructures que pot seguir un projecte de programari lliure. GitHub ens ha demostrat que en els diferents apartats tractats (sistema de negoci, infraestructura de suport per desenvolupadors, tipologia del projecte, comunitat i altres aspectes curiosos) que és fidel als seus principis i a la seva filosofia de construir mitjançant la col·laboració. Això és un aspecte molt positiu del qual podem aprendre molts valors relacionats amb el programari lliure. 
+</p>
+
+<p>
+D’aquesta forma, GitHub ens ha demostrat que sense desviar-se d’uns principis bàsics, el programari lliure és capaç de generar una comunitat col·laborativa, que ajudi en el creixement del programari, d’utilitzar infraestructures de suport per als desenvolupadors, poden facilitar la incorporació de qualsevol que vulgui col·laborar, Aplicar diferents tipus de sistemes de negoci, tant proporcionant noves funcionalitats a canvi d’una quota mensual com comercialitzant accessoris i finalment definir una tipologia en què es defineix un model de desenvolupament, una organització i una estructura social que determinin les preses de decisions i les polítiques de contribució. 
+</p>
+</div><!-- EDIT{&quot;target&quot;:&quot;plugin_wrap_end&quot;,&quot;secid&quot;:56,&quot;range&quot;:&quot;0-&quot;} -->
+</div>

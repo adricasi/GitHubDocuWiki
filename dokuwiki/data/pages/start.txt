@@ -146,11 +146,10 @@ GitHub és gratuït per a projectes públics i de codi obert. Per treballar amb 
 
 <WRAP justify>
 
-Els models de negoci i fonts d’ingrés que utilitza github es basen a obtenir bona reputació, la qual utilitzen per comercialitzar accessoris (samarretes, tasses, adhesius, figures...), d'altra banda, a part de les funcionalitats gratuïtes donen l'opció d’obtenir altres funcionalitats com poder crear repositoris privats, la qual cosa implica tenir una subscripció de pagament. 
+Els models de negoci i fonts d’ingrés que utilitza github es basen a obtenir bona reputació, la qual utilitzen per comercialitzar accessoris: https://github.myshopify.com/ (samarretes, tasses, adhesius, figures...), d'altra banda, a part de les funcionalitats gratuïtes donen l'opció d’obtenir altres funcionalitats com poder crear repositoris privats, la qual cosa implica tenir una subscripció de pagament. 
 
 </WRAP>
 
-https://github.myshopify.com
 
 
 ==== Mètode de finançament ====
