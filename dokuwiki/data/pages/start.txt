@@ -309,6 +309,7 @@ Actualment l’equip de desenvolupament de GitHub consta de 201 desenvolupadors,
 
 ==== Resultats obtinguts ====
 
+
 <WRAP justify>
 GitHub consta de 293 repositoris: https://github.com/github 
 
@@ -322,4 +323,49 @@ Finalment, un altre repositori a destacar és el que correspon al codi destinat 
 
 GitHub, dins del rank global Alexa  es troba en la posició 66. (Desembre 2018) 
 
+</WRAP>
+
+
+
+----
+===== GitHub vs GitLab =====
+
+
+<WRAP justify>
+
+Tan GitLab and GitHub proporcionen un servei de hosting per a repositoris Git.
+
+GitHub és una plataforma amb 31 million d’usuaris (October 2018), els projectes de GitHub poden ser públics i lliurement oberts per tothom, encara que també permet crear projectes privats, però requereix d’un pla de GitHub el qual s’ha de pagar. GitHub proporciona un dipòsit de codis de col·laboració per allotjar i revisar codi, administrar projectes i crear programari. Ofereix tota la funcionalitat de control de versions distribuïdes i codi font (SCM) de Git, a més d'afegir funcions pròpies. Proporciona control d'accés i diverses funcions de col·laboració, com ara el seguiment d'errors, les peticions de funcions, la gestió de tasques i les wikis per a cada projecte.
+
+D’altra banda, GitLab és un gestor de repositoris escrit en Ruby, el qual  consta de més de 100.000 usuaris, està situat en la posició 1.873 de l’Alexa rank i és utilitzat per empreses com IBM, Sony i la NASA. Ofereix gestions pel seguiment de tasques, revisions del codi, seguiment d'incidències, wikis…
+
+GitHub no ve amb una plataforma d'implementació i necessita aplicacions addicionals, com Heroku, per implementar aplicacions. En canvi GitLab utilitza Kubernetes per crear una experiència d'implementació fluida en una única aplicació
+
+</WRAP>
+
+==== Característiques bàsiques ====
+
+<WRAP justify>
+
+
+----
+
+=== Nivell d’autenticació ===
+
+Amb GitLab es pot establir i modificar els permisos de les persones d'acord amb la seva funció, permeten inclus l’accés al seguiment de tasques sense necessitat de donar permís al codi font. D’altra banda, GitHub simplement permet decidir si algú obté un accés de lectura o escriptura a un dipòsit.
+
+
+----
+
+=== Integració Continua ===
+
+GitLab ofereix la seva propia integració continua gratuïtament, permeten inclús l'ús d’un servei extern si es desitja (Jenkins, Codeship...).
+D’altra banda, GitHub ofereix diverses integracions de tercers, com Travis CI, CircleCI o Codehip, per executar i provar el codi.
+
+
+----
+
+=== Taula de característiques ===
+
+{{:wiki:githubvsgitlab.png?direct&800 |}}
 </WRAP>
