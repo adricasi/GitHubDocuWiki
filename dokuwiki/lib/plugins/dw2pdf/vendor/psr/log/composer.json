@@ -10,8 +10,7 @@
             "homepage": "http://www.php-fig.org/"
         }
     ],
-    "require": {
-	  "ext-mbstring": "*"
+    "require": {	  
         "php": ">=5.3.0"
     },
     "autoload": {

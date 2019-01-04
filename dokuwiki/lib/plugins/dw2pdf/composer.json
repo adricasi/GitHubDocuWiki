@@ -6,8 +6,7 @@
             "email": "andi@splitbrain.org"
         }
     ],
-    "require": {
-	  "ext-mbstring": "*"
+    "require": {	  
         "mpdf/mpdf": "7.0.3"
     },
     "replace": {
